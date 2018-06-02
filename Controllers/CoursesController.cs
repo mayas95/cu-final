@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using ContosoUniversity.Data;
 using ContosoUniversity.Models;
 
+//this is a test for version control
+
 namespace ContosoUniversity.Controllers
 {
     public class CoursesController : Controller
